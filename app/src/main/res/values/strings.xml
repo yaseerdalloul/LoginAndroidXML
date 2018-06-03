@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test_Project</string>
+    <string name="txt_login">Tvac Studio
+        Login Screeen</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="need_a_new_account">Need a new account?</string>
+</resources>
